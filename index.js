@@ -83,7 +83,7 @@ const handleAnswer = async (isCorrect) => {
 
     } else {
 
-        spinner.error({ text: `Dear ${playerName}, you are terminated from the game for giving wrong answer.`});
+        spinner.error({ text: `Dear ${playerName}, you have been terminated from the game for giving wrong answer.`});
 
         process.exit(1);
 
