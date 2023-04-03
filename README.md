@@ -1,6 +1,6 @@
 # Javascript Quiz CLI
 
-This is a basic CLI where the user will be able to quiz based on javascript.
+This is a basic CLI based quiz application where the user will be able to play quiz based on javascript.
 
 <br>
 
